@@ -1,4 +1,4 @@
-baseurl: 'hot-summit/'
+baseurl: '/hot-summit'
 permalink: pretty
 exclude: [src, CNAME]
 markdown: rdiscount
