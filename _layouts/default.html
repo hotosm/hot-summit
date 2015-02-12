@@ -42,6 +42,7 @@
 
 <nav class='pad2 fill-red site-navigation center space'>
   <a class='strong {% if page.url == "{{site.baseurl}}/index.html" or page.url == "{{site.baseurl}}/" %}active{% endif %}' href='{{site.baseurl}}/'>Home</a>
+  <a class='strong {% if page.url contains "scholarship" %}active{% endif %}' href='{{site.baseurl}}/scholarship/'>Scholarship</a>
 <!--  <a class='strong {% if page.url contains "about" %}active{% endif %}' href='{{site.baseurl}}/about/'>About</a>
   <a class='strong {% if page.url contains "events" or page.category == "event" %}active{% endif %}' href='{{site.baseurl}}/events/'>Join an Event</a>
   <a class='strong {% if page.url contains "plan" %}active{% endif %}' href='{{site.baseurl}}/plan/'>Event Guides</a>
