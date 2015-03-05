@@ -10,10 +10,8 @@ dates:
     name: Friday, May 1
   - id: saturday
     name: Saturday, May 2
-  - id: sunday
-    name: Sunday, May 3
-  - id: monday
-    name: Monday, May 4
+  - id: sundaymonday
+    name: Sunday - Monday, May 3 - 4
 ---
 
 <div class='fill-blue'>
@@ -44,8 +42,10 @@ dates:
                     {{item.title}}
                   <!-- </a> -->
                 </h2>
-                <div class='text-right space-bottom1'>{{item.time}}</div>
-                <div class='text-right quiet'>{{item.location}}</div>
+                <div class='col4'>
+                  <div class='text-right space-bottom1'>{{item.time}}</div>
+                  <div class='text-right quiet'>{{item.location}}</div>
+                </div>  
               </div>
               <div class='prose schedule space-bottom2'>
                 {{item.excerpt}}
