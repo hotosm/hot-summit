@@ -4,8 +4,16 @@ title: Program
 dates:
   - id: wednesday
     name: Wednesday, April 29
-  - id: summit
-    name: April 30 - May 2
+  - id: thursday
+    name: Thursday, April 30
+  - id: friday
+    name: Friday, May 1
+  - id: saturday
+    name: Saturday, May 2
+  - id: sunday
+    name: Sunday, May 3
+  - id: monday
+    name: Monday, May 4
 ---
 
 <div class='fill-blue'>
@@ -27,7 +35,7 @@ dates:
         </h3>
       </div>
       <div class='col12 pad1y'>
-        {% for item in site.tags[date.id] order:ascending %}
+        {% for item in site.tags[date.id] order:descending %}
           <div class='col12 clearfix {% if item.highlight == true %}highlight{% endif %}'>
             <div class='col12 pad2x'>
               <div class='headline clearfix space-bottom1'>
