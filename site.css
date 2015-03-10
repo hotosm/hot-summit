@@ -430,7 +430,7 @@ h1.ready {
     -webkit-column-gap: 10px;
     column-count: 5;
     column-gap: 10px;
-    width: 100%; 
+    width: 100%;
 
     div a{
         display: inline-block; /* Display inline-block, and absolutely NO FLOATS! */
@@ -444,4 +444,13 @@ h1.ready {
 
 .participating {
   height: 60px;
+}
+.participating.gold {
+  height: 60px;
+}
+.participating.silver {
+  height: 50px;
+}
+.participating.bronze {
+  height: 45px;
 }
