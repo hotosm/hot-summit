@@ -44,6 +44,7 @@ dates:
                 </h2>
                 <div class='col4'>
                   <div class='text-right space-bottom1'>{{item.time}}</div>
+                  {% if item.track.size > 0 %}<div class='text-right quiet'>Summit Track: {{item.track}}</div>{% endif %}
                   <div class='text-right quiet'>{{item.location}}</div>
                 </div>  
               </div>
