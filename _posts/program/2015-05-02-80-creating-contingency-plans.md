@@ -3,7 +3,7 @@ layout: event
 title: 'Creating Contingency Plans with OpenStreetMap, The Brief Story of HOT in Indonesia'
 track: Community Building
 day: Saturday
-time: 2:00 PM EDT - 2:30 PM EDT
+time: 1:30 PM EDT - 2:00 PM EDT
 location: American Red Cross 2025 Building
 speaker: Adityo Dwijananto
 twitter: 
