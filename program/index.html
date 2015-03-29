@@ -44,11 +44,12 @@ dates:
                 </h2>
                 <div class='col4'>
                   <div class='text-right space-bottom1'>{{item.time}}</div>
-                  {% if item.track.size > 0 %}<div class='text-right quiet'>Summit Track: {{item.track}}</div>{% endif %}
-                  <div class='text-right quiet'>{{item.location}}</div>
+                  {% if item.track.size > 0 %}<div class='text-right quiet'>Track: {{item.track}}</div>{% endif %}
+                  <div class='text-right quiet'>{{item.category | capitalize}}</div>
                 </div>  
               </div>
               <div class='prose schedule space-bottom2'>
+                {% if item.speaker.size > 0 %}<div class='text-left'><span style="font-weight: bold;">{{item.speaker}}</span>, <span style="font-style: italic;">{{item.organization}}</span></div>{% endif %}
                 {{item.excerpt}}
               </div>
             </div>
