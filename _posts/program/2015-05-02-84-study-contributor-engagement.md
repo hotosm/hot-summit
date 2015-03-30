@@ -3,7 +3,7 @@ layout: event
 title: 'A Large-scale Study of Contributor Engagement and Project Outcomes in Humanitarian Mapping'
 track: Community Building
 day: Saturday
-time: 10:30 AM EDT - 11:00 AM EDT
+time: 11:30 AM EDT - 12:00 PM EDT
 location: American Red Cross 2025 Building
 speaker: Martin Dittus
 twitter: 
