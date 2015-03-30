@@ -1,13 +1,13 @@
 ---
 layout: event
-title: 'An Introduction to MapTime'
+title: 'An Introduction to Maptime'
 track: Plenary Session
 day: Saturday
 time: 9:00 AM EDT - 9:30 AM EDT
 location: American Red Cross 2025 Building
-speaker:
-twitter: 
-organization: MapTime
+speaker: Lyzi Diamond
+twitter: @lyzidiamond
+organization: Maptime
 permalink: 
 tags: [saturday]
 category: presentation
