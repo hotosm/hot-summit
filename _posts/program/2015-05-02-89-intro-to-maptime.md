@@ -7,7 +7,7 @@ time: 9:00 AM EDT - 9:30 AM EDT
 location: American Red Cross 2025 Building
 speaker: Lyzi Diamond
 twitter: lyzidiamond
-organization: Maptime
+organization: Maptime / Mapbox
 permalink: 
 tags: [saturday]
 category: presentation
