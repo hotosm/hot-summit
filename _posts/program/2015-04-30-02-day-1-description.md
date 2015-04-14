@@ -3,7 +3,7 @@ layout: event
 title: 'Summit Day 1'
 day: Thursday
 time: 
-location: Board of Governor's room
+location: Board of Governor's Hall
 speaker: 
 twitter: 
 organization: 
