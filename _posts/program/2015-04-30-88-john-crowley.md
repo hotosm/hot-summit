@@ -1,6 +1,6 @@
 ---
 layout: event
-title: 'Growing HOTs Unique Role'
+title: "Growing HOT's Unique Role"
 track: Keynote
 day: Friday
 time: 10:00 AM EDT - 10:30 AM EDT
