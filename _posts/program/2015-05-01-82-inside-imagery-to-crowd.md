@@ -9,7 +9,7 @@ speaker: Tom Gertin
 twitter: 
 organization:  U.S. State Department Humanitarian Information Unit, MapGive Project
 permalink: 
-tags: [friday]
+tags: [cancelled]
 category: presentation
 ---
 
