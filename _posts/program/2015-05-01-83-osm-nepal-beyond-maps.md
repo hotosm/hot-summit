@@ -9,7 +9,7 @@ speaker: Nama Budhathoki
 twitter: 
 organization: Kathmandu Living Labs
 permalink: 
-tags: [friday]
+tags: [cancelled]
 category: presentation
 ---
 
