@@ -3,7 +3,7 @@ layout: event
 title: "Imagery Everywhere Everyday"
 track: Keynote
 day: Friday
-time: 2:30 PM EDT - 3:00 PM EDT
+time: 2:00 PM EDT - 2:30 PM EDT
 location: Board of Governors Hall
 speaker: Chris Holmes
 twitter: 
