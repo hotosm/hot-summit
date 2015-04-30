@@ -3,12 +3,12 @@ layout: event
 title: 'West Africa Ebola Outbreak and the use of OpenStreetMap'
 track: OSM Usage
 day: Friday
-time: 1:30 PM EDT - 2:30 PM EDT
+time: 2:00 PM EDT - 3:00 PM EDT
 location: American Red Cross 2025 Building
-speaker: Colby Wilkason
-twitter: 
+speaker: various
+twitter:
 organization: American Red Cross with panel members from MSF, HIU and HOT
-permalink: 
+permalink:
 tags: [friday]
 category: panel
 ---

@@ -3,12 +3,12 @@ layout: event
 title: 'Imagery Coordination Coordination '
 track: Technology
 day: Friday
-time: 2:30 PM EDT - 3:30 PM EDT
+time: 3:00 PM EDT - 4:00 PM EDT
 location: American Red Cross 2025 Building
 speaker: Nate Smith
-twitter: 
+twitter:
 organization: Development Seed
-permalink: 
+permalink:
 tags: [friday]
 category: facilitated discussion
 ---

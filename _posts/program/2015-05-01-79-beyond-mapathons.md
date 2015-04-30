@@ -3,12 +3,12 @@ layout: event
 title: 'Beyond Mapathons: Scaling Collaborative Mapping Events to Meet the Potential of New Mappers'
 track: Community Building
 day: Friday
-time: 2:30 PM EDT - 3:30 PM EDT
+time: 3:00 PM EDT - 4:00 PM EDT
 location: American Red Cross 2025 Building
 speaker: Pete Masters
-twitter: 
+twitter:
 organization: Missing Maps / MSF
-permalink: 
+permalink:
 tags: [friday]
 category: facilitated discussion
 ---
