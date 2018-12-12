@@ -28,6 +28,8 @@
 </head>
 <body>
 
+<script src="https://dcdqcflyekv5n.cloudfront.net/matomo-tracking/tracking.js"></script>
+
 <section class='fill-blue center'>
 <div class='pad4y dark fill-darken3'>
   <div class='event limiter clearfix center col12 margin3'>
@@ -132,19 +134,20 @@
   </div>
 </footer>
 
+<div id="optout-form">
+  <div id="optout-contents">
+    <p>This site uses Matomo to analyze traffic and help us improve your user experience. It is processing your IP address and stores cookies on your browser for 13 months. Those data are only processed by us and our web hosting platform. You may choose to opt of of this below. </p>
+    <p><a href="/privacy-policy"> Learn more about our Privacy Policy</a></p>
+    <p>
+      <input type="checkbox" id="optout" />
+      <label for="optout"><strong></strong></label>
+    </p>
+  </div>
+  <div class="close-button" id="optout-close">Close</div>
+</div>
+
 <!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//piwik.hotosm.org/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', 4]);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
+
 <noscript><p><img src="//piwik.hotosm.org/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 <!-- End Piwik Code -->
 
